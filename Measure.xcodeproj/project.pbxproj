@@ -438,11 +438,10 @@
 		61B33F991F3ADB49004055CE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = DFJYL5D7C7;
+				DEVELOPMENT_TEAM = F78XGGLL2V;
 				INFOPLIST_FILE = Measure/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.levantAJ.Measure;
+				PRODUCT_BUNDLE_IDENTIFIER = com.levantAJ.Measure.jony;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -452,11 +451,10 @@
 		61B33F9A1F3ADB49004055CE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = DFJYL5D7C7;
+				DEVELOPMENT_TEAM = F78XGGLL2V;
 				INFOPLIST_FILE = Measure/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.levantAJ.Measure;
+				PRODUCT_BUNDLE_IDENTIFIER = com.levantAJ.Measure.jony;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
